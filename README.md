@@ -9,19 +9,19 @@
 
 <h4 align='center'>As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/aykutkorkmazx/">
+<a href="https://www.linkedin.com/in/emre-oz/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin"/>
 </a>
-<a href="https://twitter.com/AykutKorkmazX">
+<a href="https://twitter.com/WorldFirstEmre">
     <img align="center" src="https://img.shields.io/badge/Twitter-181818?style=flat-square&logo=twitter"/>
 </a>
-<a href="https://www.facebook.com/aykutkorkmazX">
+<a href="https://www.facebook.com/e3m7re">
     <img align="center" src="https://img.shields.io/badge/Facebook-181818?style=flat-square&logo=facebook"/>
 </a>
-<a href="mailto:aykutkorkmaz.original@gmail.com">
+<a href="mailto:emre_oz37@hotmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-181818?style=flat-square&logo=gmail"/>
 </a>
-<a href="https://www.instagram.com/aykutk.us/">
+<a href="https://www.instagram.com/emre.oz.37/">
     <img align="center" src="https://img.shields.io/badge/Instagram-181818?style=flat-square&logo=instagram"/>
 </a>
 </p>
@@ -48,9 +48,3 @@
 ![Windows](https://img.shields.io/badge/Windows-181818?style=flat&logo=windows)
 
 <hr>
-
-<p align="center">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreoz1&hide=java,html&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" />
-
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=emreoz1&show_icons=true&line_height=27&count_private=true&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" alt="Aykut's GitHub Stats" />
-</p>
