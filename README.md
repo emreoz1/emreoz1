@@ -49,15 +49,8 @@
 
 <hr>
 
-### **My Popular Blog Posts**
-
-- [WWDC20 Highlights](https://medium.com/macoclock/wwdc-2020-highlights-f852465f2909)
-- [WWDC21 Highlights](https://medium.com/macoclock/wwdc21-highlights-b2be857742f6)
-- [Apple Event 2021 Highlights](https://medium.com/macoclock/apple-event-2021-highlights-63ce0e723a85)
-<hr>
-
 <p align="center">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&hide=java,html&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreoz1&hide=java,html&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" />
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&show_icons=true&line_height=27&count_private=true&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" alt="Aykut's GitHub Stats" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=emreoz1&show_icons=true&line_height=27&count_private=true&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" alt="Aykut's GitHub Stats" />
 </p>
