@@ -12,12 +12,6 @@
 <a href="https://www.linkedin.com/in/emre-oz/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin"/>
 </a>
-<a href="https://twitter.com/WorldFirstEmre">
-    <img align="center" src="https://img.shields.io/badge/Twitter-181818?style=flat-square&logo=twitter"/>
-</a>
-<a href="https://www.facebook.com/e3m7re">
-    <img align="center" src="https://img.shields.io/badge/Facebook-181818?style=flat-square&logo=facebook"/>
-</a>
 <a href="mailto:emre_oz37@hotmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-181818?style=flat-square&logo=gmail"/>
 </a>
