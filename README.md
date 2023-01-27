@@ -23,16 +23,8 @@
 
 ![HTML](https://img.shields.io/badge/HTML-181818?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-181818?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/ReactJS-181818?style=flat&logo=react)
-![Nodejs](https://img.shields.io/badge/NodeJS-181818?style=flat&logo=Node.js)
-![NPM](https://img.shields.io/badge/NPM-181818?style=flat&logo=npm)
-![Yarn](https://img.shields.io/badge/Yarn-181818?style=flat&logo=yarn)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-181818?style=flat&logo=visual-studio-code)
-![Atom](https://img.shields.io/badge/Atom-181818?style=flat&logo=atom)
-![Git](https://img.shields.io/badge/Git-181818?style=flat&logo=git)
 ![Chrome](https://img.shields.io/badge/Chrome-181818?style=flat&logo=googlechrome)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-181818?style=flat&logo=adobexd)
 ![Windows](https://img.shields.io/badge/Windows-181818?style=flat&logo=windows)
 
 <hr>
