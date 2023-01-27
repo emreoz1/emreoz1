@@ -12,12 +12,6 @@
 <a href="https://www.linkedin.com/in/emre-oz/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin"/>
 </a>
-<a href="mailto:emre_oz37@hotmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-181818?style=flat-square&logo=gmail"/>
-</a>
-<a href="https://www.instagram.com/emre.oz.37/">
-    <img align="center" src="https://img.shields.io/badge/Instagram-181818?style=flat-square&logo=instagram"/>
-</a>
 </p>
 <!--
 🚩 **Highlights:** <br>
