@@ -7,7 +7,7 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/aykutkorkmaz1) -->
 
-<h4 align='center'>As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.</h2>
+<h4 align='center'>As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Mechatronics Engineering. I have intermediate knowledge of electricity, mechatronics, technical drawing.</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/emre-oz/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin"/>
