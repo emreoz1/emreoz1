@@ -1,30 +1,48 @@
-<!--
-<h2 align='center'><samp><strong>Hey, I'm Aykut 👋.</strong></samp></h2>
-<h3 align='center'><strong><a href="http://aykut.codes" target="_blank">Personal Website 🌐</a></strong></h3>
-<p align='center'><strong>Software developer | Web - JavaScript Developer | Industrial Automation Technologist</strong></p> <br> -->
+<h2 align="left">Hi 👋! My name is Emre and I'm a Mechatronics Engineering, from Türkiye.</h2>
 
-![](banner.png)
+###
 
-<!-- ![Profile views](https://gpvc.arturio.dev/aykutkorkmaz1) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emreoz1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emreoz1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h4 align='center'>As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Mechatronics Engineering. I have intermediate knowledge of electricity, mechatronics, technical drawing.</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/emre-oz/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin"/>
-</a>
-</p>
-<!--
-🚩 **Highlights:** <br>
-<a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='25' height='25'/></a> 
-<a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='25' height='25'/></a> -->
-<hr>
+###
 
-### **Tech Stack** <br>
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/64218463?v=4"  />
 
-![HTML](https://img.shields.io/badge/HTML-181818?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-181818?style=flat&logo=css3)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-181818?style=flat&logo=visual-studio-code)
-![Chrome](https://img.shields.io/badge/Chrome-181818?style=flat&logo=googlechrome)
-![Windows](https://img.shields.io/badge/Windows-181818?style=flat&logo=windows)
+###
 
-<hr>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@emre-oz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="mailto:business.worldfirstemre@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/emre-oz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/emreoz1/emreoz1/output/snake.svg" alt="Snake animation" />
+
+###
